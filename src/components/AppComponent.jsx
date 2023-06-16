@@ -1,8 +1,7 @@
 import React from "react";
 import imgApp from "../images/appimg.png";
 import Image from "next/image";
-import { Button } from "@material-tailwind/react";
-import Link from "next/link";
+
 
 const AppComponent = () => {
   return (

@@ -55,3 +55,20 @@
           --scroll-behavior: smooth!important;
           scroll-behavior: smooth!important;
           }
+
+
+         .splide__arrow svg{
+  fill: white !important;
+}
+.splide__arrow {
+  background-color: #AC906F !important;
+}
+.splide__pagination__page.is-active{
+  background-color: #AC906F !important;
+  
+}
+
+::selection{
+  background-color: #AC906F;
+  color: #ffffff;
+}
